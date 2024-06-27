@@ -11,6 +11,24 @@ The Recipe Manager application allows users to manage their recipes by adding, f
 - **Pie Chart Display**: Display a static pie chart showing food group distribution (placeholder feature).
 - **Generate Menu**: Placeholder feature for generating menus based on selected recipes.
 
+## Lecture Feedback on Code Changes
+- Implemented dynamic addition of ingredients and steps effectively.
+- Applied filtering functionality well; ensure consistent user feedback on applied filters.
+- Generated a static pie chart for food group distribution; consider making it dynamic based on real data.
+- Implemented recipe export functionality to a text file.
+
+## Improving Coding Structure and Referencing Practices
+- **Coding Structure**: 
+  - Organized code into logical methods and event handlers.
+  - Utilized object-oriented principles effectively with the Recipe class.
+  - Improved user interface interactions with event-driven programming.
+
+- **Referencing Practices**: 
+  - Applied C# language features appropriately.
+  - Utilized WPF for the user interface, implementing MVVM pattern for better separation of concerns.
+  - Used OxyPlot for generating static pie chart; consider enhancing it with dynamic data.
+
+
 ## How to Compile and Run
 
 ### Prerequisites
